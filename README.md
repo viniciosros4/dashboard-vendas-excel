@@ -11,7 +11,8 @@ Esta dashboard foi criada para fornecer uma visão detalhada do desempenho de ve
 🛠 Ferramenta utilizada:
 Excel: Criação da dashboard e análise de dados
 
-📂 Arquivos no repositório
+📸 Prévia da Dashboard
+
 ![Image](https://github.com/user-attachments/assets/ef6aa1c5-dac1-4768-b6e1-3ac28926ea3b)
 ![Image](https://github.com/user-attachments/assets/a2195228-d4bc-4e00-809b-3d765123b360)
 
